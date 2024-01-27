@@ -12,7 +12,7 @@ git clone https://github.com/inmanturbo/vflat
 ```
 
 ```bash
-cd vfalt
+cd vflat
 ```
 
 ```bash
