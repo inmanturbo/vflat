@@ -16,7 +16,7 @@ cd vfalt
 ```
 
 ```bash
-npm install
+npm install && npm run dev
 ```
 
 ```bash
