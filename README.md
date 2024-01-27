@@ -20,10 +20,6 @@ npm install && npm run dev
 ```
 
 ```bash
-composer install
-```
-
-```bash
 php artisan migrate
 ```
 
