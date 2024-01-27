@@ -8,7 +8,7 @@ Simple vflat stack, complete with your first counter component
 ## Installation
 
 ```bash
-git clone https://github.com/inmanturbo/vflat
+composer create project inmanturbo/vflat vflat
 ```
 
 ```bash
